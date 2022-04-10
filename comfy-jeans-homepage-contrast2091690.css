@@ -1,0 +1,870 @@
+.comfy-jeans-homepage-contrast2091690-container {
+  min-height: 100vh;
+}
+.comfy-jeans-homepage-contrast2091690-comfy-jeans-homepage-contrast2091690 {
+  width: 1920px;
+  height: 3913px;
+  display: flex;
+  position: relative;
+  max-width: 1920px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame512168 {
+  top: 1154px;
+  left: -10px;
+  width: 1940px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-image {
+  width: 1920px;
+  height: 2749px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(245, 242, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame502167 {
+  top: 115px;
+  left: -10px;
+  width: 1940px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image01 {
+  width: 1920px;
+  height: 854px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+  background-color: rgba(152, 123, 226, 1);
+}
+.comfy-jeans-homepage-contrast2091690-header2091865 {
+  top: 0px;
+  left: -1px;
+  width: 1920px;
+  height: 125px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: space-between;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame212091866 {
+  width: 254px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  justify-content: space-between;
+}
+.comfy-jeans-homepage-contrast2091690-text {
+  color: rgba(77, 77, 77, 1);
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: Open Sans;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame262091868 {
+  display: flex;
+  padding: 15px 275px 15px 20px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  flex-shrink: 1;
+  border-color: rgba(226, 226, 226, 1);
+  border-style: solid;
+  border-width: 2px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-image02 {
+  width: 17px;
+  height: 17px;
+  margin: 0 12px 0 0;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame452091885 {
+  height: 13px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+}
+.comfy-jeans-homepage-contrast2091690-text01 {
+  color: rgba(112, 105, 103, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  line-height: 21.999980926513672px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-menu2091875 {
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text02 {
+  color: rgba(76, 68, 65, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  line-height: 23.990379333496094px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-cart-button2091877 {
+  width: 187px;
+  height: 44px;
+  display: flex;
+  position: relative;
+  box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 10px;
+  justify-content: flex-end;
+  background-color: rgba(74, 27, 193, 1);
+}
+.comfy-jeans-homepage-contrast2091690-image03 {
+  width: 50px;
+  height: 51px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text03 {
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame12091888 {
+  top: 125px;
+  left: -1px;
+  width: 1920px;
+  display: flex;
+  padding: 9px 580px;
+  position: absolute;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(215, 199, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-text04 {
+  color: rgba(0, 0, 0, 1);
+  width: 760px;
+  height: auto;
+  flex-grow: 1;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text05 {
+  color: rgba(0, 0, 0, 1);
+  width: 760px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text06 {
+  color: rgba(0, 0, 0, 1);
+  width: 760px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text07 {
+  color: rgba(0, 0, 0, 1);
+  width: 760px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 700px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text08 {
+  color: rgba(0, 0, 0, 1);
+  width: 760px;
+  height: auto;
+  flex-grow: 1;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-weight: 400px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame492092009 {
+  top: 258px;
+  left: 82px;
+  width: 1713px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image04 {
+  width: 1693px;
+  height: 250px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame32091899 {
+  top: 589px;
+  left: 744px;
+  width: 432px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text09 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame42091901 {
+  top: 663px;
+  left: 443px;
+  width: 1032px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-shop-now-button2091902 {
+  width: 500px;
+  height: 150px;
+  margin: 0 32px 0 0;
+  display: flex;
+  padding: 6px 0;
+  position: relative;
+  box-shadow: 4px 4px 8px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: rgba(217, 90, 18, 1);
+}
+.comfy-jeans-homepage-contrast2091690-text10 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 46.5px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-shop-now-buttonnew2091904 {
+  width: 500px;
+  height: 150px;
+  display: flex;
+  padding: 18px 137px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  border-radius: 15px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 0.6000000238418579);
+}
+.comfy-jeans-homepage-contrast2091690-text11 {
+  color: rgba(74, 27, 193, 1);
+  height: auto;
+  font-size: 36px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame52091906 {
+  top: 979px;
+  left: 0px;
+  width: 1920px;
+  height: 185px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(74, 27, 193, 1);
+}
+.comfy-jeans-homepage-contrast2091690-text12 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 400px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame62091908 {
+  top: 1227px;
+  left: 215px;
+  width: 597px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text13 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 48px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 500px;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame202091910 {
+  top: 1359px;
+  left: 226px;
+  width: 816px;
+  height: 958px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame322091911 {
+  margin: 0 0 11px 0;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-image05 {
+  width: 682px;
+  height: 682px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame192091913 {
+  width: 816px;
+  height: 89px;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: transparent;
+  justify-content: center;
+  background-color: rgba(239, 239, 239, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame182091914 {
+  margin: 0 501px 0 0;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-text14 {
+  color: rgba(76, 68, 65, 1);
+  width: 160px;
+  height: auto;
+  margin: 0 0 7px 0;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text15 {
+  color: rgba(0, 0, 0, 1);
+  width: 97px;
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: right;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-image06 {
+  width: 123px;
+  height: 39px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame72091933 {
+  top: 1360px;
+  left: 1094px;
+  width: 652px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame5221619 {
+  width: 301px;
+  height: 456px;
+  margin: 0 50px 0 0;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image07 {
+  width: auto;
+  height: 400px;
+  position: relative;
+  align-self: stretch;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-card21621 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame5321622 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text16 {
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  margin: 0 8px 0 0;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text17 {
+  color: rgba(76, 68, 65, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame5321625 {
+  width: 301px;
+  height: 456px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image08 {
+  width: auto;
+  height: 400px;
+  position: relative;
+  align-self: stretch;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-card21627 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame5321628 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text18 {
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  margin: 0 8px 0 0;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text19 {
+  color: rgba(76, 68, 65, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame82091944 {
+  top: 1861px;
+  left: 1094px;
+  width: 652px;
+  display: flex;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-frame5221631 {
+  width: 301px;
+  height: 456px;
+  margin: 0 50px 0 0;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image09 {
+  width: auto;
+  height: 400px;
+  position: relative;
+  align-self: stretch;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-card21633 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame5321634 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text20 {
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  margin: 0 8px 0 0;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text21 {
+  color: rgba(76, 68, 65, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame5321637 {
+  width: 301px;
+  height: 456px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 8px 8px 16px 0px rgba(0, 0, 0, 0.10000000149011612) ;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image10 {
+  width: auto;
+  height: 400px;
+  position: relative;
+  align-self: stretch;
+  object-fit: cover;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-card21639 {
+  display: flex;
+  padding: 16px 24px;
+  position: relative;
+  flex-grow: 1;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+  background-color: rgba(255, 255, 255, 1);
+}
+.comfy-jeans-homepage-contrast2091690-frame5321640 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.comfy-jeans-homepage-contrast2091690-text22 {
+  color: rgba(0, 0, 0, 1);
+  width: 128px;
+  height: auto;
+  margin: 0 8px 0 0;
+  flex-grow: 1;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-text23 {
+  color: rgba(76, 68, 65, 1);
+  height: auto;
+  font-size: 18px;
+  align-self: auto;
+  font-style: normal;
+  text-align: left;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-shop-all-button2091955 {
+  top: 2366px;
+  left: 710px;
+  width: 500px;
+  height: 53px;
+  display: flex;
+  padding: 0 14px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: center;
+  border-color: rgba(217, 90, 18, 1);
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 10px;
+  justify-content: center;
+}
+.comfy-jeans-homepage-contrast2091690-text24 {
+  color: rgba(217, 90, 18, 1);
+  height: auto;
+  font-size: 24px;
+  align-self: auto;
+  font-style: normal;
+  text-align: center;
+  font-family: SF Pro Display;
+  font-weight: 700px;
+  line-height: 24px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.comfy-jeans-homepage-contrast2091690-frame482092008 {
+  top: 2464px;
+  left: 59px;
+  width: 1856px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  flex-direction: column;
+}
+.comfy-jeans-homepage-contrast2091690-image11 {
+  width: 1836px;
+  height: 42px;
+  position: relative;
+  object-fit: cover;
+  border-color: transparent;
+}
